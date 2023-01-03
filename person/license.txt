@@ -1,0 +1,11 @@
+Model Information:
+* title:	SwordGirl
+* source:	https://sketchfab.com/3d-models/swordgirl-a173c4b5243a4a90b09c83937dcb44fa
+* author:	SomeDude (https://sketchfab.com/Patyot.Suttipreecha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SwordGirl" (https://sketchfab.com/3d-models/swordgirl-a173c4b5243a4a90b09c83937dcb44fa) by SomeDude (https://sketchfab.com/Patyot.Suttipreecha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
